@@ -17,4 +17,4 @@ Query Auto‑Completion for Short and Unseen Prefxes](https://trebuchet.public.s
 
 ## Getting Access to the Source Code or Pretrained Models
 
-To get access to the source code, please send a request to <AcadGrants@service.microsoft.com> and cc to <maunendra[at]cse[dot]iith[dot]ac[dot]in> and  <cs18resch11003[at]iith[dot]ac[dot]in>.
+To get access to the source code, please send a request to <AcadGrants@service.microsoft.com> and cc to maunendra[at]cse[dot]iith[dot]ac[dot]in and  cs18resch11003[at]iith[dot]ac[dot]in.
