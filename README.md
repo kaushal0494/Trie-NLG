@@ -8,7 +8,7 @@
 
 ## Sample Generations with Trie-NLG
 
-![](https://github.com/kaushal0494/Trie-NLG/blob/main/sample_gens.png)
+![](https://github.com/kaushal0494/Trie-NLG/blob/main/sample-gens.png)
 
 ## About
 
