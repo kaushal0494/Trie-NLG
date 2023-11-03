@@ -1,7 +1,7 @@
 # Trie-NLG
 
 This repository contains the source code of the paper titled [Trie‑NLG: Trie Context Augmentation to Improve Personalized
-Query Auto‑Completion for Short and Unseen Prefxes](https://trebuchet.public.springernature.app/get_content/03bb8a3c-bf40-4f72-9146-bf49d38489d8) which is published in the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2023 (Journal Track: DAMI))* conference. If you have any questions, please feel free to create a Github issue or reach out to the first author at cs18resch11003[at]iith[dot]ac[dot]in.
+Query Auto‑Completion for Short and Unseen Prefxes](https://trebuchet.public.springernature.app/get_content/03bb8a3c-bf40-4f72-9146-bf49d38489d8) which is published in the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2023 (Journal Track: DAMI)* conference.
 
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/Arko98/Hostility-Detection-in-Hindi-Constraint-2021/blob/main/LICENSE)
